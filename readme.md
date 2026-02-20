@@ -37,7 +37,7 @@ config.rs       — wallet address, RPC/WSS URLs, creator vault
 
 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/solana-wallet-watcher
+git clone https://github.com/Kristiii101/solana-wallet-watcher
 cd solana-wallet-watcher
 ```
 
